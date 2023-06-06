@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322836554854",
+    "project_id": "transport-application-d24c9",
+    "storage_bucket": "transport-application-d24c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322836554854:android:c2ca953369d59a54dbf9a7",
+        "android_client_info": {
+          "package_name": "com.example.ride_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322836554854-j4rcmdkv479qbv55nflgc2srd15om1ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3H55QlRyMOtXosX_iOnJI5oUYtUzDH0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322836554854-j4rcmdkv479qbv55nflgc2srd15om1ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
